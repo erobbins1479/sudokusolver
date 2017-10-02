@@ -1,6 +1,6 @@
 # sudokusolver
 
-g64SudokuSolver is live at http://leodotng.surge.sh
+g64SudokuSolver is live at https://sudokusolver-7554c.firebaseapp.com/
 for testing purposes. Renders nicely on phone.
 
 // Added buttons with document.getElementById functionality
